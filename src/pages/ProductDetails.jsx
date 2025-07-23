@@ -2,7 +2,7 @@ import { useContext } from "react";
 import { Link, useParams } from "react-router-dom";
 import { ProductContext } from "../context/ProductContext";
 import { toast } from "react-toastify";
-import ReactImageMagnify from "react-image-magnify";
+// import ReactImageMagnify from "react-image-magnify";
 import Tab from "react-bootstrap/Tab";
 import Tabs from "react-bootstrap/Tabs";
 import Table from "react-bootstrap/Table";
@@ -99,7 +99,7 @@ function ProductDetails() {
   }
   console.log(alreadyAddedToWishlist);
 
-  let selectedImage = selectedProduct?.image;
+  // let selectedImage = selectedProduct?.image;
   return (
     <>
       <InnerPageBanner>Product Details</InnerPageBanner>
@@ -110,7 +110,7 @@ function ProductDetails() {
             <div className="col-md-6">
               <div className="prodcut-image-block">
                 <div className="prodcut-image">
-                  <ReactImageMagnify
+                  {/* <ReactImageMagnify
                     {...{
                       smallImage: {
                         alt: "Wristwatch by Ted Baker London",
@@ -125,14 +125,11 @@ function ProductDetails() {
                         height: 800,
                         background: "#fff",
                       },
-                      // enlargedImageContainerDimensions: {
-                      //   width: "120%",
-                      //   height: "100%",
-                      // },
+                     
                       shouldUsePositiveSpaceLens: true,
                     }}
-                  />
-                  {/* <img src={selectedProduct.image} alt="" /> */}
+                  /> */}
+                  <img src={selectedProduct.image} alt="" />
                 </div>
               </div>
             </div>
