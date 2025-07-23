@@ -1,0 +1,19 @@
+.trending-block .productBlock {
+  padding: 15px;
+}
+.block-image-box {
+  position: relative;
+}
+.bolck-content {
+  position: absolute;
+  top: 20px;
+  padding: 20px;
+}
+.bolck-content h2 {
+  color: #fff;
+  margin-bottom: 15px;
+  font-weight: bold;
+}
+.bolck-content p {
+  color: var(--gray-3);
+}

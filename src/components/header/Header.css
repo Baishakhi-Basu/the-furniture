@@ -1,0 +1,121 @@
+.header-item-right {
+  font-size: 20px;
+}
+.logo {
+  width: 160px;
+}
+.itemCountBlock {
+  position: relative;
+}
+.itemCountBlock span {
+  position: absolute;
+  width: 20px;
+  height: 20px;
+  background: var(--theme-3);
+  color: #fff;
+  text-align: center;
+  border-radius: 50%;
+  padding: 0;
+  line-height: 21px;
+  font-size: 13px;
+  right: -14px;
+  top: -3px;
+}
+.list-pro-display-block {
+}
+.list-pro-display-block ul li {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 20px;
+  border-bottom: 1px dashed #ccc;
+}
+.list-pro-display-block ul li .list-pro-img {
+  width: 90px;
+}
+.list-pro-display-block ul li .list-pro-name {
+  width: 65%;
+  font-size: 15px;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+.list-pro-display-block ul li .cross {
+  cursor: pointer;
+}
+.offcanvas-body {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+.main-button-bg-dark {
+  background: var(--body-text-dark);
+}
+.sideBar-header {
+  font-size: 22px;
+  text-transform: uppercase;
+  font-weight: 600;
+}
+.no-product-block {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  padding: 30px;
+}
+.center-nav .nav-link {
+}
+.loginOutBtn {
+  display: inline-block;
+  padding: 8px 18px;
+  text-align: center;
+  background: var(--theme-3);
+  color: #fff;
+  transition: all ease 0.5s;
+  text-transform: capitalize;
+  position: relative;
+  -webkit-transform: perspective(1px) translateZ(0);
+  transform: perspective(1px) translateZ(0);
+  font-size: 15px;
+}
+.loginOutBtn:before {
+  content: "";
+  position: absolute;
+  z-index: -1;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background: var(--body-dark);
+  -webkit-transform: scaleY(0);
+  transform: scaleY(0);
+  -webkit-transform-origin: 50% 100%;
+  transform-origin: 50% 100%;
+  -webkit-transition-property: transform;
+  transition-property: transform;
+  -webkit-transition-duration: 0.5s;
+  transition-duration: 0.5s;
+  -webkit-transition-timing-function: ease-out;
+  transition-timing-function: ease-out;
+}
+.loginOutBtn:hover:before {
+  -webkit-transform: scaleY(1);
+  transform: scaleY(1);
+  -webkit-transition-timing-function: cubic-bezier(0.52, 1.64, 0.37, 0.66);
+  transition-timing-function: cubic-bezier(0.52, 1.64, 0.37, 0.66);
+}
+.welcomeTxt {
+  text-transform: capitalize;
+  display: inline-block;
+  max-width: 12ch;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+.nav-item {
+  transition: all ease 0.5s !important;
+}
+
+.active-link {
+  transition: all ease 0.5s !important;
+  color: var(--theme-3) !important;
+  border-bottom: 1px solid var(--theme-3) !important;
+}

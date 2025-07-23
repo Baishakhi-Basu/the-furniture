@@ -1,0 +1,10 @@
+.innerPageBanner {
+  padding: 100px 0;
+  background: url(../images/inner-page-banner.jpg) center no-repeat;
+  background-size: cover;
+}
+.innerPageBanner-content h2 {
+  font-size: 38px;
+  color: var(--gray-2);
+  /* text-transform: uppercase; */
+}

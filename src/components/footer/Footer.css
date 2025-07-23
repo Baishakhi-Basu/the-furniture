@@ -1,0 +1,38 @@
+.footer {
+  padding: 100px 0;
+  background: var(--theme-3);
+  color: var(--gray-3);
+}
+.link-block-header h4 {
+  font-weight: bold;
+  text-transform: uppercase;
+  font-size: 18px;
+  margin-bottom: 20px;
+  color: #fff;
+}
+.footer-link-content li {
+  margin-bottom: 10px;
+  text-transform: capitalize;
+}
+.footer-logo {
+  margin-bottom: 20px;
+}
+.social-link {
+  margin-top: 15px;
+}
+.social-link ul {
+  display: flex;
+  gap: 15px;
+}
+.social-link ul li {
+  color: #fff;
+}
+.copyText {
+  color: #fff;
+  font-size: 15px;
+}
+@media only screen and (max-width: 768px) {
+  .copyText {
+    margin-bottom: 30px;
+  }
+}

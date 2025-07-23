@@ -1,0 +1,302 @@
+[
+  {
+    "id": "p1",
+    "name": "Wooden Dining Table",
+    "price": "188.00",
+    "description": "Wooden Dining Table Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+    "image": "images/Wooden-Dining-Table.png",
+    "category": "table",
+    "status": "trending",
+    "dimensions": "60D x 24W x 37H inches",
+    "weight": "20 Pounds"
+  },
+  {
+    "id": "p2",
+    "name": "Ceramic Round Table",
+    "price": "120.00",
+    "description": "Ceramic Round Table Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+    "image": "images/Ceramic-Round-Table.png",
+    "category": "table",
+    "status": "best-sellers",
+    "dimensions": "40D x 25W x 30H inches",
+    "weight": "22 Pounds"
+  },
+  {
+    "id": "p3",
+    "name": "Center Table at Living Room",
+    "price": "170.00",
+    "description": "Center Table at Living Room Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco.",
+    "image": "images/Center-Table.png",
+    "category": "table",
+    "status": "trending",
+    "dimensions": "50D x 30W x 37H inches",
+    "weight": "25 Pounds"
+  },
+  {
+    "id": "p4",
+    "name": "Rectangular Wooden Table",
+    "price": "110.00",
+    "description": "Rectangular Wooden Table Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut.",
+    "image": "images/Rectangular-Wooden.png",
+    "category": "table",
+    "status": "new-arrival",
+    "dimensions": "45D x 20W x 27H inches",
+    "weight": "23 Pounds"
+  },
+  {
+    "id": "p5",
+    "name": "Bamboo Sofa",
+    "price": "99.00",
+    "description": "Bamboo Sofa Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+    "image": "images/Bamboo-Sofa.png",
+    "category": "sofa",
+    "status": "best-sellers",
+    "dimensions": "55D x 36W x 38H inches",
+    "weight": "27 Pounds"
+  },
+  {
+    "id": "p6",
+    "name": "Single Seater Sofa Chair",
+    "price": "101.00",
+    "description": "Single Seater Sofa Chair Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+    "image": "images/Single-Seater-Sofa.png",
+    "category": "sofa",
+    "status": "trending",
+    "dimensions": "65D x 46W x 40H inches",
+    "weight": "21 Pounds"
+  },
+  {
+    "id": "p7",
+    "name": "Living Room Sofa",
+    "price": "120.00",
+    "description": "Living Room Sofa Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+    "image": "images/Living-Room-Sofa.png",
+    "category": "sofa",
+    "status": "best-sellers",
+    "dimensions": "49D x 46W x 45H inches",
+    "weight": "28 Pounds"
+  },
+  {
+    "id": "p8",
+    "name": "Adjustable Leather Sofa",
+    "price": "150.00",
+    "description": "Adjustable Leather Sofa Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+    "image": "images/Adjustable-Leather-Sofa.png",
+    "category": "sofa",
+    "status": "new-arrival",
+    "dimensions": "55D x 43W x 48H inches",
+    "weight": "28 Pounds"
+  },
+  {
+    "id": "p9",
+    "name": "Stella Chair",
+    "price": "75.00",
+    "description": "Stella Chair Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+    "image": "images/Stella-Chair.png",
+    "category": "chair",
+    "status": "trending",
+    "dimensions": "45D x 46W x 48H inches",
+    "weight": "22 Pounds"
+  },
+  {
+    "id": "p10",
+    "name": "Leather Butterfly Chair",
+    "price": "77.00",
+    "description": "Leather Butterfly Chair Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+    "image": "images/Butterfly-Chair.png",
+    "category": "chair",
+    "dimensions": "55D x 43W x 48H inches",
+    "weight": "12 Pounds"
+  },
+  {
+    "id": "p11",
+    "name": "Reclining Easy Chair",
+    "price": "90.00",
+    "description": "Reclining Easy Chair Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+    "image": "images/Easy-Chair.png",
+    "category": "chair",
+    "status": "trending",
+    "dimensions": "50D x 42W x 46H inches",
+    "weight": "18 Pounds"
+  },
+  {
+    "id": "p12",
+    "name": "Modern Accent Chair",
+    "price": "160.00",
+    "description": "Modern Accent Chair Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+    "image": "images/Accent-Chair.png",
+    "category": "chair",
+    "status": "new-arrival",
+    "dimensions": "49D x 46W x 50H inches",
+    "weight": "22 Pounds"
+  },
+  {
+    "id": "p13",
+    "name": "Sheesham Wood King Size Bed with Storage",
+    "price": "300.00",
+    "description": "Sheesham Wood King Size Bed with Storage Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+    "image": "images/Sheesham-Bed.png",
+    "category": "bed",
+    "status": "best-sellers",
+    "dimensions": "75 x 54 x 30 inches",
+    "weight": "50 Pounds"
+  },
+  {
+    "id": "p14",
+    "name": "Stylish Wooden Double Bed",
+    "price": "190.00",
+    "description": "Stylish Wooden Double Bed Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+    "image": "images/Double-Bed.png",
+    "category": "bed",
+    "status": "trending",
+    "dimensions": "70 x 55 x 30 inches",
+    "weight": "45 Pounds"
+  },
+  {
+    "id": "p15",
+    "name": "Double Cot Palang Bed",
+    "price": "230.00",
+    "description": "Double Cot Palang Bed Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+    "image": "images/Palang-Bed.png",
+    "category": "bed",
+    "status": "best-sellers",
+    "dimensions": "75 x 65 x 35 inches",
+    "weight": "52 Pounds"
+  },
+  {
+    "id": "p16",
+    "name": "Queen Size Bed",
+    "price": "240.00",
+    "description": "Queen Size Bed Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+    "image": "images/Queen-Size-Bed.png",
+    "category": "bed",
+    "status": "best-sellers",
+    "dimensions": "75 x 65 x 35 inches",
+    "weight": "51 Pounds"
+  },
+  {
+    "id": "p17",
+    "name": "Hammock Swing Chair Without Stand",
+    "price": "90.00",
+    "description": "Hammock Swing Chair Without Stand Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+    "image": "images/ham-1.png",
+    "category": "hammock",
+    "status": "new-arrival",
+    "dimensions": "60L x 36W inches",
+    "weight": "20 Pounds"
+  },
+  {
+    "id": "p18",
+    "name": "Hammock Swing Chair with Stand",
+    "price": "90.00",
+    "description": "Hammock Swing Chair with Stand Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+    "image": "images/ham-2.png",
+    "category": "hammock",
+    "status": "trending",
+    "dimensions": "62L x 37W inches",
+    "weight": "28 Pounds"
+  },
+  {
+    "id": "p19",
+    "name": "Camping Hammock",
+    "price": "60.00",
+    "description": "Camping Hammock Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+    "image": "images/ham-3.png",
+    "category": "hammock",
+    "dimensions": "60L x 36W inches",
+    "weight": "5 Pounds"
+  },
+  {
+    "id": "p20",
+    "name": "Bamboo Cane Swing",
+    "price": "30.00",
+    "description": "Bamboo Cane Swing Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+    "image": "images/ham-4.png",
+    "category": "hammock",
+    "status": "trending",
+    "dimensions": "50L x 29W inches",
+    "weight": "12 Pounds"
+  },
+  {
+    "id": "p21",
+    "name": "Office Table",
+    "price": "120.00",
+    "description": "Office Table Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+    "image": "images/image-21.png",
+    "category": "table",
+    "status": "best-sellers",
+    "dimensions": "33D x 20W x 43H inches",
+    "weight": "24 Pounds"
+  },
+  {
+    "id": "p22",
+    "name": "Durable Polyester Sleeper Sofa",
+    "price": "250.00",
+    "description": "Durable Polyester Sleeper Sofa Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+    "image": "images/image-22.png",
+    "category": "sofa",
+    "dimensions": "30D x 50W x 42H inches",
+    "weight": "25 Pounds"
+  },
+  {
+    "id": "p23",
+    "name": "Sofa Pet Friendly Extra Large Couch",
+    "price": "180.00",
+    "description": "Sofa Pet Friendly Extra Large Couch Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+    "image": "images/image-23.png",
+    "category": "sofa",
+    "status": "best-sellers",
+    "dimensions": "40D x 52W x 46H inches",
+    "weight": "23 Pounds"
+  },
+  {
+    "id": "p24",
+    "name": "King Size Bed",
+    "price": "280.00",
+    "description": "King Size Bed Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+    "image": "images/image-24.png",
+    "category": "bed",
+    "dimensions": "75 x 65 x 35 inches",
+    "weight": "24 Pounds"
+  },
+  {
+    "id": "p25",
+    "name": "Dining Table and Chairs",
+    "price": "220.00",
+    "description": "Dining Table and Chairs Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+    "image": "images/image-25.png",
+    "category": "table",
+    "dimensions": "33D x 45W x 46H inches",
+    "weight": "44 Pounds"
+  },
+  {
+    "id": "p26",
+    "name": "Cordless Table Lamp",
+    "price": "90.00",
+    "description": "Cordless Table Lamp Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+    "image": "images/image-26.png",
+    "category": "lamp",
+    "dimensions": "17D x 13W x 61H inches",
+    "weight": "10 Pounds"
+  },
+  {
+    "id": "p27",
+    "name": "Mini LED Table Lamp",
+    "price": "30.00",
+    "description": "Mini LED Table Lamp Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+    "image": "images/image-27.png",
+    "category": "lamp",
+    "dimensions": "15D x 14W x 40H inches",
+    "weight": "5 Pounds"
+  },
+  {
+    "id": "p28",
+    "name": "Touch Lamp, Multicolor Night Light",
+    "price": "30.00",
+    "description": "Touch Lamp, Multicolor Night Light Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+    "image": "images/image-28.png",
+    "category": "lamp",
+    "dimensions": "14D x 17W x 30H inches",
+    "weight": "3 Pounds"
+  }
+]

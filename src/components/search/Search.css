@@ -1,0 +1,19 @@
+.search-box {
+  position: relative;
+}
+.search-icon {
+  position: absolute;
+  right: 10px;
+  bottom: 3px;
+  cursor: pointer;
+  border: none;
+  background: none;
+}
+.not-found-product {
+  margin-top: 20px;
+  text-align: center;
+}
+
+.not-found-product span {
+  text-transform: capitalize;
+}

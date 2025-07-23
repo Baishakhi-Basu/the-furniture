@@ -1,0 +1,36 @@
+.testimonial-sec {
+  padding: 70px 0 40px;
+  background: url(./images/testi-sec-bg.jpg);
+  /* background: var(--theme-3); */
+}
+.testimonial-sec .section-title {
+  color: #fff;
+}
+.testimonial-inner {
+  padding: 50px 0 90px;
+}
+.testi-image {
+  margin-bottom: 20px;
+}
+.testi-image img {
+  width: 150px;
+  margin: auto;
+  border-radius: 50%;
+  border: 2px solid #000;
+}
+.testi-content {
+  color: #fff;
+  margin-bottom: 30px;
+}
+.testi-rating {
+  margin: 10px 0 15px;
+}
+.testi-text {
+}
+.testi-name {
+  color: #fff;
+  text-transform: uppercase;
+}
+.testi-name h4 {
+  font-size: 20px;
+}

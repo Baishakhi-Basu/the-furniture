@@ -1,0 +1,54 @@
+.bg-banner-box-inner {
+  position: relative;
+  transition: all ease 0.7s;
+  margin: 10px 0;
+}
+.bg-banner-box-txt {
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 100%;
+  width: 100%;
+  padding: 15px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.bg-banner-box-txt .info {
+  width: 100%;
+  text-align: center;
+  padding: 65px 15px 80px;
+  border: 2px solid #fff;
+  max-width: 500px;
+  backdrop-filter: brightness(0.7);
+}
+.bg-banner-box-txt .info h2 {
+  font-size: 55px;
+  color: #fff;
+  text-shadow: 0 0 3px #3f3f3f;
+}
+
+.bg-banner-box-txt .info p {
+  color: #fff;
+  text-transform: uppercase;
+  letter-spacing: 4px;
+}
+.bg-banner-box-img {
+  overflow: hidden;
+}
+.bg-banner-box-img img {
+  transition: all ease 0.8s;
+}
+.bg-banner-box-inner:hover .bg-banner-box-img img {
+  transform: scale(1.1);
+}
+
+@media only screen and (max-width: 768px) {
+  .bg-banner-box-txt .info h2 {
+    font-size: 22px;
+  }
+}
+@media only screen and (max-width: 600px) {
+  .bg-banner-box-txt .info h2 {
+  }
+}

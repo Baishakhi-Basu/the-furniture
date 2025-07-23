@@ -1,0 +1,49 @@
+.formBlock .form-control {
+  height: 50px;
+  border: 1px solid var(--body-dark-2);
+  padding: 10px 20px;
+  font-size: 15px;
+  font-weight: 400;
+  color: #000000;
+  transition: all 0.3s ease-in-out;
+  background: #fff;
+  border-radius: 5px;
+}
+.orderBlock {
+  padding: 20px;
+  background: #f6f6f6;
+}
+.orderBlock-inner {
+  padding: 15px;
+  background: #fff;
+}
+.orderBlock-inner th {
+  color: var(--theme-3) !important;
+}
+.orderBlock-inner tbody tr {
+  border-bottom: 1px dashed #ccc;
+}
+.orderBlock-inner tbody tr td {
+  padding: 15px 10px;
+}
+.orderBlock-inner tbody tr:last-child {
+  border-bottom: none;
+}
+.total-price {
+  color: var(--theme-3);
+  /* font-size: 18px; */
+}
+.showLoginMsgInCheck {
+  color: red;
+}
+.linkLogInText {
+  text-decoration: underline;
+}
+@media only screen and (max-width: 768px) {
+  .formBlock {
+    margin-bottom: 20px;
+  }
+  .orderBlock {
+    padding: 5px;
+  }
+}
