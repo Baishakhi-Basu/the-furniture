@@ -3,6 +3,9 @@ import {
   RouterProvider,
   Navigate,
 } from "react-router-dom";
+import { useEffect, useState } from "react";
+
+import { ClipLoader } from "react-spinners";
 
 import "slick-carousel/slick/slick.css";
 import "slick-carousel/slick/slick-theme.css";
@@ -38,6 +41,12 @@ function ProductRedirect() {
   return <Navigate to="/product/table" replace />;
 }
 function App() {
+  const [appLoading, setAppLoading] = useState(true);
+
+  useEffect(() => {
+    setTimeout(() => setAppLoading(false), 1000);
+  }, []);
+
   const router = createBrowserRouter([
     {
       path: "/",
@@ -61,6 +70,14 @@ function App() {
       ],
     },
   ]);
+
+  if (appLoading) {
+    return (
+      <div className="loader-container">
+        <ClipLoader size={60} color="#ba4b40" />
+      </div>
+    );
+  }
   return (
     <AuthContextProvider>
       <ProducContextProvider>
