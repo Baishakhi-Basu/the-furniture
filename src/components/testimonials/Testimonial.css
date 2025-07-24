@@ -1,6 +1,6 @@
 .testimonial-sec {
   padding: 70px 0 40px;
-  background: url(./images/testi-sec-bg.jpg);
+  background: url(../images/testi-sec-bg.jpg);
   /* background: var(--theme-3); */
 }
 .testimonial-sec .section-title {
