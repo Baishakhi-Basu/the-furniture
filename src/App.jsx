@@ -44,7 +44,7 @@ function App() {
   const [appLoading, setAppLoading] = useState(true);
 
   useEffect(() => {
-    setTimeout(() => setAppLoading(false), 1000);
+    setTimeout(() => setAppLoading(false), 1500);
   }, []);
 
   const router = createBrowserRouter([
